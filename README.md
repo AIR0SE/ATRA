@@ -9,18 +9,18 @@ Cs_Project_parth.
 ## Navigation of main menu :
 to perform action of drawing or seeing artworks hover over a word and press Enter (it glows if its clickible) additinaly press q to end the game.
 ## Drawing: 
-Z for pause
-x for increase brush size
-c for decreasing brush size
-q for exiting drawing action
+Z for pause\n
+x for increase brush size\n
+c for decreasing brush size\n
+q for exiting drawing action\n
 ## current artwork display:
-z for increasing/decreasing spped of display
-click save button to save the drawing also exists you from artwork display
-q for exiting artwork display without saving
+z for increasing/decreasing spped of display\n
+click save button to save the drawing also exists you from artwork display\n
+q for exiting artwork display without saving\n
 ## saving:
-write name of file and enter
+write name of file and enter\n
 ## Artwork display:
-z for increasing/decreasing spped of display
-n for changing the artwork from left to right
-b for changing the artwork from right to left
-q for exiting Artwork display action
+z for increasing/decreasing spped of display\n
+n for changing the artwork from left to right\n
+b for changing the artwork from right to left\n
+q for exiting Artwork display action\n
